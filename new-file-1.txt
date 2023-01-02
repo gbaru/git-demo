@@ -1,2 +1,1 @@
-random text
-git init
+random text content 2
